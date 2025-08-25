@@ -1,7 +1,7 @@
 site_name: Machine Learning
 site_author: Dutra, G.
-site_url: https://snowdutra.github.io/Machine-Learning
-repo_url: https://github.com/snowdutra/Machine-Learning
+site_url: https://snowdutra.github.io/Machine-Learning/
+repo_url: https://github.com/snowdutra/Machine-Learning/
 repo_name: github/Machine-Learning
 
 theme:
