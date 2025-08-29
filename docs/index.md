@@ -7,7 +7,21 @@ hide:
 
 
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/159259903?v=4" width="120" style="border-radius:50%; box-shadow:0 4px 16px #ffa50055;">
+<style>
+@keyframes glow {
+	0% { box-shadow: 0 4px 16px #ffa50055; }
+	25% { box-shadow: 0 4px 24px #ff6f0055; }
+	50% { box-shadow: 0 4px 32px #ffd70055; }
+	75% { box-shadow: 0 4px 24px #ffa50055; }
+	100% { box-shadow: 0 4px 16px #ffa50055; }
+}
+.profile-img {
+	border-radius: 50%;
+	box-shadow: 0 4px 16px #ffa50055;
+	animation: glow 2s infinite;
+}
+</style>
+<img src="https://avatars.githubusercontent.com/u/159259903?v=4" width="120" class="profile-img">
 	<br>
 	<b style="font-size:1.3rem; color:#ffa500;">Data Scientist | Machine Learning</b>
 	<br>
