@@ -2,7 +2,6 @@
 hide:
 - toc
 ---
-
 # Gustavo Dutra
 
 
