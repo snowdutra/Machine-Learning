@@ -1,100 +1,87 @@
-# Template de Entrega
+---
+hide:
+- toc
+---
+
+# Gustavo Dutra
 
 
-???+ info inline end "Edição"
+<div align="center">
+	<img src="https://avatars.githubusercontent.com/u/159259903?v=4" width="120" style="border-radius:50%; box-shadow:0 4px 16px #ffa50055;">
+	<br>
+	<b style="font-size:1.3rem; color:#ffa500;">Data Scientist | Machine Learning</b>
+	<br>
+	<span style="color:#888;">São Paulo, Brasil</span>
+	<br><br>
+			<img src="https://images.emojiterra.com/google/android-12l/512px/1f9ea.png" width="48" style="vertical-align:middle; margin-right:12px;">
 
-    2025.1
-
-
-## Grupo/Kit X
-
-1. João da Silva
-1. Pedro de Souza
-1. Maria Oliveira
-1. Grupo K
-    - João da Silva
-    - Pedro de Souza
-
-
-
-!!! tip "Instruções"
-
-    Vocês devem utilizar este template como um bloco de notas para registrar o que foi feito e o que falta fazer. Vocês devem adicionar as informações necessárias.
-    O template deve ser editado e atualizado a cada entrega, registrando assim a data de entrega e o que foi feito até o momento via Git.
-
-## Entregas
-
-- [x] Roteiro 1 - Data 23/02/2025
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
-- [ ] Projeto
-
-## Diagramas
-
-Use o [Mermaid](https://mermaid.js.org/intro/){:target='_blank'} para criar os diagramas de documentação.
-
-[Mermaid Live Editor](https://mermaid.live/){:target='_blank'}
-
-
-``` mermaid
-flowchart TD
-    Deployment:::orange -->|defines| ReplicaSet
-    ReplicaSet -->|manages| pod((Pod))
-    pod:::red -->|runs| Container
-    Deployment -->|scales| pod
-    Deployment -->|updates| pod
-
-    Service:::orange -->|exposes| pod
-
-    subgraph  
-        ConfigMap:::orange
-        Secret:::orange
-    end
-
-    ConfigMap --> Deployment
-    Secret --> Deployment
-    classDef red fill:#f55
-    classDef orange fill:#ffa500
-```
+			<img src="https://em-content.zobj.net/source/whatsapp/224/game-die_1f3b2.png" width="48" style="vertical-align:middle;">
+</div>
 
 
 
-## Códigos
+---
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=400&lines=Bem-vindo+ao+meu+portfólio!" alt="Typing SVG" />
+</div>
 
-=== "De um arquivo remoto"
+## Machine Learning 🧠
+Projetos, estudos e aplicações práticas:
 
-    ``` { .yaml .copy .select linenums='1' title="main.yaml" }
-    --8<-- "https://raw.githubusercontent.com/hsandmann/documentation.template/refs/heads/main/.github/workflows/main.yaml"
-    ```
+- <b>[Classificação de Performance de Estudantes](https://github.com/snowdutra/Machine-Learning/tree/main/docs/arvore_decisao)</b><br>
+	<i>Árvore de decisão, análise exploratória, visualizações e insights sobre dados educacionais.</i>
 
-=== "Anotações no código"
+- <b>[Regressão Linear e Polinomial](https://github.com/snowdutra/Machine-Learning/tree/main/docs/projeto)</b><br>
+	<i>Modelos de regressão para previsão e análise de tendências.</i>
 
-    ``` { .yaml title="compose.yaml" }
-    name: app
+- <b>[Clustering e Segmentação](https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro2)</b><br>
+	<i>Agrupamento de dados, K-means, análise de grupos e perfis.</i>
 
-        db:
-            image: postgres:17
-            environment:
-                POSTGRES_DB: ${POSTGRES_DB:-projeto} # (1)!
-                POSTGRES_USER: ${POSTGRES_USER:-projeto}
-                POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-projeto}
-            ports:
-                - 5432:5432 #(2)!
-    ```
+- <b>[Redes Neurais e Deep Learning](https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro3)</b><br>
+	<i>Introdução a redes neurais, exemplos práticos e aplicações.</i>
 
-    1.  Caso a variável de ambiente `POSTGRES_DB` não exista ou seja nula - não seja definida no arquivo `.env` - o valor padrão será `projeto`. Vide [documentação](https://docs.docker.com/reference/compose-file/interpolation/){target='_blank'}.
+- <b>[Feature Engineering](https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro4)</b><br>
+	<i>Criação, seleção e transformação de variáveis para melhorar modelos.</i>
 
-    2. Aqui é feito um túnel da porta 5432 do container do banco de dados para a porta 5432 do host (no caso localhost). Em um ambiente de produção, essa porta não deve ser exposta, pois ninguém de fora do compose deveria acessar o banco de dados diretamente.
+- <b>[Visualização de Dados](https://github.com/snowdutra/Machine-Learning/tree/main/docs/arvore_decisao/imagens)</b><br>
+	<i>Gráficos, heatmaps, boxplots e outras técnicas para explorar dados.</i>
+
+Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/Machine-Learning" target="_blank"><b>repositório principal</b></a>!
+
+---
+
+## Conquistas
+
+🥇 **Quickdraw Achievement**<br>
+🚀 **Projetos publicados e mantidos no GitHub**<br>
+🤝 **Participação ativa em comunidades de dados**<br>
+📢 **Palestras e workshops**<br>
+🌟 **Reconhecimento em comunidades de tecnologia**<br>
+
+---
+
+## Contato
+
+📬 Fique à vontade para conectar!
 
 
-## Exemplo de vídeo
+<a href="https://www.linkedin.com/in/gustavo-dutra-/" target="_blank" rel="noopener noreferrer">
+	<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Linkedin" width="35" style="vertical-align:middle; margin-right:12px;" />
+</a>
+<a href="https://github.com/snowdutra" target="_blank" rel="noopener noreferrer">
+	<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="35" style="vertical-align:middle;" />
+</a>
 
-Lorem ipsum dolor sit amet
 
-<iframe width="100%" height="470" src="https://www.youtube.com/embed/3574AYQml8w" allowfullscreen></iframe>
-
+---
 
 ## Referências
 
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/reference/){:target='_blank'}
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+- [Mermaid Live Editor](https://mermaid.live/)
+
+---
+
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFA500&center=true&vCenter=true&width=320&lines=Obrigado+por+visitar!;Siga+no+Linkedin+e+GitHub!" alt="Typing SVG" />
+</div>

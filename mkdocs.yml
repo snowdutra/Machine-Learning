@@ -105,13 +105,13 @@ markdown_extensions:
   - tables
       
 plugins:
+  - git-committers:
+      repository: snowdutra/snowdutra.github.com
+      branch: main
   - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
   - git-authors
-  - git-committers:
-      repository: hsandmann/hsandmann.github.com
-      branch: main
   - search
   - badges
   - minify:
@@ -133,7 +133,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - This documentation: ./thisdocumentation/main.md
+  - Documentation: ./documentation/main.md
   - Árvore de Decisão: ./arvore_decisao/main.md
   - Roteiros:
     - Roteiro 1: ./roteiro1/main.md
