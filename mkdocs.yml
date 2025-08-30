@@ -47,7 +47,8 @@ theme:
     - navigation.top
     - navigation.path
     - navigation.tracking
-    - navigation.expand
+  navigation:
+    expand: false
   icon:
     # logo: assets/images/devops
     admonition:
