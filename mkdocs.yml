@@ -60,8 +60,6 @@ theme:
       warning: fontawesome/solid/triangle-exclamation
       failure: fontawesome/solid/bomb
       danger: fontawesome/solid/skull
-      bug: fontawesome/solid/robot
-      example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
 
 markdown_extensions:
@@ -106,7 +104,7 @@ markdown_extensions:
       
 plugins:
   - git-committers:
-      repository: snowdutra/snowdutra.github.com
+      repository: snowdutra/Machine-Learning
       branch: main
   - glightbox
   - git-revision-date-localized:
@@ -134,10 +132,18 @@ extra_javascript:
 nav:
   - Home: index.md
   - Documentation: ./documentation/main.md
-  - Árvore de Decisão: ./arvore_decisao/main.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+  - Árvore de Decisão:
+    - Introdução: ./arvore_decisao/introducao.md
+    - Importação de Bibliotecas: ./arvore_decisao/importacao_bibliotecas.md
+    - Carregamento do Dataset: ./arvore_decisao/carregamento_dataset.md
+    - Análise Exploratória: ./arvore_decisao/analise_exploratoria.md
+    - Visualização das Notas: ./arvore_decisao/visualizacao_notas.md
+    - Correlação entre Variáveis: ./arvore_decisao/correlacao_variaveis.md
+    - Comparação por Gênero e Grupo Étnico: ./arvore_decisao/comparacao_grupos.md
+    - Pré-processamento: ./arvore_decisao/preprocessamento.md
+    - Divisão Treino/Teste: ./arvore_decisao/divisao_treino_teste.md
+    - Treinamento do Modelo: ./arvore_decisao/treinamento_modelo.md
+    - Otimização do Modelo: ./arvore_decisao/otimizacao_modelo.md
+    - Avaliação do Modelo: ./arvore_decisao/avaliacao_modelo.md
+    - Árvore de Decisão Visual: ./arvore_decisao/arvore_visual.md
+    - Relatório Final: ./arvore_decisao/relatorio_final.md

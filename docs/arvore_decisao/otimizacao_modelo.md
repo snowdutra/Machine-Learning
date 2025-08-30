@@ -1,0 +1,27 @@
+# 10.1. Otimização do Modelo de Árvore de Decisão
+
+Para alcançar um desempenho excelente, aplicamos otimização dos hiperparâmetros usando GridSearchCV, que testa várias combinações e seleciona o melhor modelo com base na métrica R².
+
+=== "Código"
+	```python
+	from sklearn.model_selection import GridSearchCV
+	from sklearn.tree import DecisionTreeRegressor
+
+	param_grid = {
+		'max_depth': [3, 5, 10, 20, None],
+		'min_samples_split': [2, 5, 10, 20],
+		'min_samples_leaf': [1, 2, 4, 8],
+		'max_features': [None, 'sqrt', 'log2']
+	}
+
+	grid_search = GridSearchCV(
+		DecisionTreeRegressor(random_state=42),
+		param_grid,
+		cv=5,
+		scoring='r2',
+		n_jobs=-1
+	)
+	grid_search.fit(X_train, y_train)
+	best_tree = grid_search.best_estimator_
+	print('Melhores hiperparâmetros:', grid_search.best_params_)
+	```

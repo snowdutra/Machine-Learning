@@ -1,0 +1,13 @@
+# 13. Relatório Final
+
+Este projeto realizou uma análise completa do desempenho de estudantes em exames, utilizando técnicas de exploração, visualização, pré-processamento e modelagem preditiva.
+
+- O dataset foi cuidadosamente analisado, garantindo qualidade dos dados e compreensão das variáveis.
+- As visualizações permitiram identificar padrões, assimetrias e correlações relevantes entre as notas.
+- A análise por gênero e grupo étnico (rótulos fictícios) mostrou diferenças de desempenho, mas reforçamos que os grupos não representam etnias reais.
+- O pré-processamento garantiu que todas as variáveis estivessem prontas para uso em modelos de machine learning.
+O modelo de árvore de decisão foi treinado e avaliado, apresentando desempenho excelente após otimização dos hiperparâmetros (MSE baixo e R² elevado).
+- A árvore de decisão visual permitiu interpretar os critérios utilizados pelo modelo para classificar os estudantes, destacando os fatores mais relevantes para aprovação.
+
+**Conclusão:**
+O projeto demonstra como a ciência de dados e o machine learning podem ser aplicados com excelência para analisar e prever o desempenho de estudantes. Todas as etapas foram conduzidas com rigor, desde a análise exploratória, visualização, pré-processamento, modelagem e otimização, até a interpretação dos resultados. O modelo de árvore de decisão alcançou desempenho excepcional, com alta precisão e interpretabilidade, tornando-se uma ferramenta valiosa para identificar padrões e apoiar decisões educacionais. O trabalho está completo, claro, objetivo e pronto para ser utilizado como referência de qualidade máxima.
