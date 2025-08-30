@@ -148,9 +148,8 @@ Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/Machin
 
 ---
 
-## Contato
 
-📬 Fique à vontade para conectar!
+## 📬 Fique à vontade para conectar!
 
 <style>
 
@@ -166,19 +165,20 @@ Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/Machin
 
 </a>
 <a href="https://www.linkedin.com/in/gustavo-dutra-/" target="_blank" rel="noopener noreferrer">
-	<img class="contact-icon" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Linkedin" width="35" style="vertical-align:middle; margin-right:12px;" />
+	<img class="contact-icon" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="Linkedin" width="50" style="vertical-align:middle; margin-right:20px;" />
 </a>
 </a>
 </a>
 <a href="https://github.com/snowdutra" target="_blank" rel="noopener noreferrer">
-	<img class="contact-icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="35" style="vertical-align:middle; cursor:pointer;" />
+	<img class="contact-icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" style="vertical-align:middle; cursor:pointer;" />
 </a>
 </a>
 
 ---
 
-## Referências
+## Mentores e Referências
 
+- [GitHub Hsandmann](https://github.com/hsandmann/ml)
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 - [Mermaid Live Editor](https://mermaid.live/)
 
