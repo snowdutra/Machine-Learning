@@ -110,7 +110,7 @@ hide:
 }
 "></span>
 
-Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/Machine-Learning" target="_blank"><b>repositório principal</b></a>!
+Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/" target="_blank"><b>repositório principal</b></a>!
 
 ---
 
