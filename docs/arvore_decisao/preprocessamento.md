@@ -1,0 +1,33 @@
+# 8. Pré-processamento dos Dados
+
+Nesta etapa, codificamos variáveis categóricas para que possam ser utilizadas em modelos de machine learning. O LabelEncoder transforma textos em números, facilitando o processamento pelo algoritmo.
+
+=== "Código"
+	```python
+	# Verificar valores ausentes
+	print('Valores nulos por coluna:')
+	print(df.isnull().sum())
+
+	# Codificar variáveis categóricas
+	from sklearn.preprocessing import LabelEncoder
+	le = LabelEncoder()
+
+	# Lista de colunas categóricas
+	cat_cols = ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+	for col in cat_cols:
+		df[col] = le.fit_transform(df[col])
+
+	print('Exemplo de dados após codificação:')
+	df.head()
+	```
+=== "Código (extra)"
+	```python
+	# Normalização das colunas de notas
+	from sklearn.preprocessing import MinMaxScaler
+	scaler = MinMaxScaler()
+	df[['math score', 'reading score', 'writing score']] = scaler.fit_transform(df[['math score', 'reading score', 'writing score']])
+	print('Exemplo de dados após normalização:')
+	df.head()
+	```
+=== "Resultado"
+	Após a codificação, todas as variáveis categóricas passam a ser representadas por números inteiros, permitindo o uso em modelos de árvore de decisão.
