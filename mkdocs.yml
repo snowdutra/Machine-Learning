@@ -148,3 +148,17 @@ nav:
     - Avaliação do Modelo: ./arvore_decisao/avaliacao_modelo.md
     - Árvore de Decisão Visual: ./arvore_decisao/arvore_visual.md
     - Relatório Final: ./arvore_decisao/relatorio_final.md
+  - KNN:
+    - Introdução: ./KNN/introducao.md
+    - Importação de Bibliotecas: ./KNN/importacao_bibliotecas.md
+    - Carregamento do Dataset: ./KNN/carregamento_dataset.md
+    - Análise Exploratória: ./KNN/analise_exploratoria.md
+    - Visualização das Notas: ./KNN/visualizacao_notas.md
+    - Correlação entre Variáveis: ./KNN/correlacao_variaveis.md
+    - Comparação por Gênero e Grupo Étnico: ./KNN/comparacao_grupos.md
+    - Pré-processamento: ./KNN/preprocessamento.md
+    - Divisão Treino/Teste: ./KNN/divisao_treino_teste.md
+    - Treinamento do Modelo: ./KNN/treinamento_modelo.md
+    - Avaliação do Modelo: ./KNN/avaliacao_modelo.md
+    - Relatório Final: ./KNN/relatorio_final.md
+  

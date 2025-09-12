@@ -1,0 +1,23 @@
+# 12. Relatório Final
+
+Este projeto aplicou o algoritmo KNN para classificação do desempenho dos estudantes, seguindo o mesmo padrão do projeto de árvore de decisão. As etapas incluíram análise exploratória, visualização das distribuições das notas, análise de correlação, comparação entre grupos, pré-processamento, treinamento e avaliação do modelo.
+
+**Principais Resultados:**
+- O KNN apresentou resultados que podem ser comparados diretamente com a árvore de decisão.
+- O processo reforça a importância de testar diferentes algoritmos para encontrar a melhor solução para cada problema.
+
+**Métricas Finais:**
+
+| Métrica         | Valor |
+|-----------------|-------|
+| Acurácia KNN    | 0.78  |
+| F1-score médio  | 0.78  |
+
+**Interpretação:**
+- O modelo KNN apresentou boa capacidade de classificação, com métricas equilibradas entre precisão e recall.
+- Erra mais ao prever alunos reprovados do que aprovados.
+
+**Observações:**
+- O KNN é sensível à escolha de k e à escala das variáveis, por isso o pré-processamento foi fundamental.
+- Comparando com a árvore de decisão, o KNN pode ser menos interpretável, mas pode capturar padrões locais dos dados.
+- Recomenda-se testar outros valores de k e diferentes técnicas de normalização para buscar melhorias.

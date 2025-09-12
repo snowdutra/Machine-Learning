@@ -1,0 +1,9 @@
+# Introdução
+
+Este relatório segue as etapas do projeto de árvore de decisão, mas agora utilizando o algoritmo KNN para classificação do desempenho dos estudantes.
+
+**Objetivo:**
+- Explorar, analisar e preparar os dados para classificação.
+- Explicar cada etapa, resultados e limitações do conjunto de dados.
+
+O KNN é um algoritmo simples, não-paramétrico e eficaz para problemas de classificação, especialmente quando interpretabilidade é importante.
