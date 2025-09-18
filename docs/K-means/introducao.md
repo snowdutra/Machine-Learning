@@ -1,0 +1,9 @@
+# Introdução
+
+Este relatório segue as etapas do projeto de árvore de decisão e KNN, mas agora utilizando o algoritmo K-means para agrupar (clusterizar) os estudantes de acordo com seu desempenho e características.
+
+**Objetivo:**
+- Explorar, analisar e preparar os dados para agrupamento não supervisionado.
+- Explicar cada etapa, resultados e limitações do conjunto de dados.
+
+O K-means é um algoritmo de clustering simples, eficiente e amplamente utilizado para segmentação de dados, permitindo identificar padrões e grupos semelhantes sem a necessidade de rótulos prévios.
