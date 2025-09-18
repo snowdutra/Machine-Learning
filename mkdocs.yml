@@ -161,4 +161,16 @@ nav:
     - Treinamento do Modelo: ./KNN/treinamento_modelo.md
     - Avaliação do Modelo: ./KNN/avaliacao_modelo.md
     - Relatório Final: ./KNN/relatorio_final.md
-  
+  - K-Means:
+    - Introdução: ./K-Means/introducao.md
+    - Importação de Bibliotecas: ./K-Means/importacao_bibliotecas.md
+    - Carregamento do Dataset: ./K-Means/carregamento_dataset.md
+    - Análise Exploratória: ./K-Means/analise_exploratoria.md
+    - Visualização das Notas: ./K-Means/visualizacao_notas.md
+    - Correlação entre Variáveis: ./K-Means/correlacao_variaveis.md
+    - Comparação por Gênero e Grupo Étnico: ./K-Means/comparacao_grupos.md
+    - Pré-processamento: ./K-Means/preprocessamento.md
+    - Divisão Treino/Teste: ./K-Means/divisao_treino_teste.md
+    - Treinamento do Modelo: ./K-Means/treinamento_modelo.md
+    - Avaliação do Modelo: ./K-Means/avaliacao_modelo.md
+    - Relatório Final: ./K-Means/relatorio_final.md
