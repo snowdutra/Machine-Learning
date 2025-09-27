@@ -1,18 +1,4 @@
 # 5. Correlação entre Variáveis
 
-A análise de correlação entre as notas mostra que leitura e escrita têm correlação muito alta, enquanto matemática apresenta correlação moderada com as demais. Isso pode influenciar a formação dos clusters pelo K-means.
-
-**🟢 Resultado**
-
-|                | math score | reading score | writing score |
-|----------------|------------|--------------|--------------|
-| math score     | 1.00       | 0.82         | 0.80         |
-| reading score  | 0.82       | 1.00         | 0.95         |
-| writing score  | 0.80       | 0.95         | 1.00         |
-
----
-**🟢 Heatmap de Correlação**
-
-![](imagens/heatmap_correlacao.png)
-
-> 💡 O heatmap mostra forte correlação entre leitura e escrita, e correlação moderada entre matemática e as demais. Isso pode impactar a separação dos clusters.
+Esta etapa foi detalhada no projeto da árvore de decisão. Consulte:
+[Correlação entre Variáveis - Árvore de Decisão](https://snowdutra.github.io/Machine-Learning/arvore_decisao/correlacao_variaveis/)

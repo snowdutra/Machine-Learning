@@ -41,3 +41,8 @@ plt.close()
 ![](imagens/barplot_etnia.png)
 
 > 💡 Os gráficos mostram as médias de notas por gênero e grupo étnico, evidenciando diferenças entre os grupos.
+
+# 10. Comparação de Grupos
+
+Esta etapa foi detalhada no projeto da árvore de decisão. Consulte:
+[Comparação de Grupos - Árvore de Decisão](https://snowdutra.github.io/Machine-Learning/arvore_decisao/comparacao_grupos/)

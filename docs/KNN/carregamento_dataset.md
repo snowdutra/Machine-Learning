@@ -1,15 +1,8 @@
 # 2. Carregamento do Dataset
 
-O dataset utilizado é o mesmo do projeto de árvore de decisão, contendo informações sobre desempenho de estudantes em exames. As colunas incluem gênero, grupo étnico, nível de educação dos pais, tipo de almoço, curso preparatório e notas em matemática, leitura e escrita.
-
-```python
-import kagglehub
-# Baixar o dataset do Kaggle
-path = kagglehub.dataset_download("spscientist/students-performance-in-exams")
-csv_path = path + "/StudentsPerformance.csv"
-df = pd.read_csv(csv_path)
-df.head()
-```
+O carregamento do dataset foi detalhado no projeto da árvore de decisão. Consulte:
+[Carregamento do Dataset - Árvore de Decisão](https://snowdutra.github.io/Machine-Learning/arvore_decisao/introducao/)
+Aqui, o foco será nos resultados do KNN.
 
 **🟢 Resultado**
 
