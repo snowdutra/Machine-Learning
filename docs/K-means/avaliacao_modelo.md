@@ -11,16 +11,9 @@ print(f'Silhouette Score: {sil_score:.3f}')
 **🟢 Resultado**
 
 - Silhouette Score: 0.32 (exemplo)
-- Visualização dos clusters:
 
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-sns.scatterplot(x='math score', y='reading score', hue='cluster', data=df_encoded, palette='Set1')
-plt.title('Clusters formados pelo K-means')
-plt.savefig('imagens/clusters_kmeans.png')
-plt.show()
-```
+---
+**🟢 Visualização dos Clusters**
 
 ![](imagens/clusters_kmeans.png)
 

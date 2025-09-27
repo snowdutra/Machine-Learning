@@ -10,6 +10,9 @@ A análise de correlação entre as notas mostra que leitura e escrita têm corr
 | reading score  | 0.82       | 1.00         | 0.95         |
 | writing score  | 0.80       | 0.95         | 1.00         |
 
+---
+**🟢 Heatmap de Correlação**
+
 ![](imagens/heatmap_correlacao.png)
 
 > 💡 O heatmap mostra forte correlação entre leitura e escrita, e correlação moderada entre matemática e as demais. Isso pode impactar a separação dos clusters.

@@ -24,17 +24,17 @@ Verificamos o formato do dataset, os tipos de dados e se há valores nulos. Isso
 ---
 **🟢 Gráfico de Dispersão (Pairplot)**
 
-```python
-import seaborn as sns
-import matplotlib.pyplot as plt
-sns.pairplot(df, hue='passed')
-plt.savefig('imagens/pairplot_passed.png')
-plt.close()
-```
-
 ![](imagens/pairplot_passed.png)
 
-> 💡 O pairplot mostra a distribuição das notas e possíveis agrupamentos naturais entre os estudantes.
+---
+**🟢 Histogramas das Notas**
+
+![](imagens/histograma_notas.png)
+
+---
+**🟢 Boxplot das Notas**
+
+![](imagens/boxplot_notas.png)
 
 ---
 **🟠 Observação**
