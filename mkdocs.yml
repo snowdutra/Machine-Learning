@@ -133,7 +133,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Documentation: ./documentation/main.md
-  - Árvore de Decisão:
+  - Decision Tree:
     - 01.Introdução: ./arvore_decisao/01.introducao.md
     - 02.Importação de Bibliotecas: ./arvore_decisao/02.importacao_bibliotecas.md
     - 03.Carregamento do Dataset: ./arvore_decisao/03.carregamento_dataset.md
@@ -149,28 +149,32 @@ nav:
     - 13.Árvore de Decisão Visual: ./arvore_decisao/13.arvore_visual.md
     - 14.Relatório Final: ./arvore_decisao/14.relatorio_final.md
   - KNN:
-    - 01.Introdução: ./KNN/01.introducao.md
-    - 02.Importação de Bibliotecas: ./KNN/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: ./KNN/03.carregamento_dataset.md
-    - 04.Análise Exploratória: ./KNN/04.analise_exploratoria.md
-    - 05.Visualização das Notas: ./KNN/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: ./KNN/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: ./KNN/07.comparacao_grupos.md
-    - 08.Pré-processamento: ./KNN/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: ./KNN/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: ./KNN/10.treinamento_modelo.md
-    - 11.Avaliação do Modelo: ./KNN/11.avaliacao_modelo.md
-    - 12.Relatório Final: ./KNN/12.relatorio_final.md
+    - 01.Introdução: ./knn/01.introducao.md
+    - 02.Importação de Bibliotecas: ./knn/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: ./knn/03.carregamento_dataset.md
+    - 04.Análise Exploratória: ./knn/04.analise_exploratoria.md
+    - 05.Visualização das Notas: ./knn/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: ./knn/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: ./knn/07.comparacao_grupos.md
+    - 08.Pré-processamento: ./knn/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: ./knn/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: ./knn/10.treinamento_modelo.md
+    - 11.Avaliação do Modelo: ./knn/11.avaliacao_modelo.md
+    - 12.Relatório Final: ./knn/12.relatorio_final.md
   - K-Means:
-    - 01.Introdução: ./K-means/01.introducao.md
-    - 02.Importação de Bibliotecas: ./K-means/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: ./K-means/03.carregamento_dataset.md
-    - 04.Análise Exploratória: ./K-means/04.analise_exploratoria.md
-    - 05.Visualização das Notas: ./K-means/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: ./K-means/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: ./K-means/07.comparacao_grupos.md
-    - 08.Pré-processamento: ./K-means/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: ./K-means/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: ./K-means/10.treinamento_modelo.md
-    - 11.Avaliação do Modelo: ./K-means/11.avaliacao_modelo.md
-    - 12.Relatório Final: ./K-means/12.relatorio_final.md
+    - 01.Introdução: ./kmeans/01.introducao.md
+    - 02.Importação de Bibliotecas: ./kmeans/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: ./kmeans/03.carregamento_dataset.md
+    - 04.Análise Exploratória: ./kmeans/04.analise_exploratoria.md
+    - 05.Visualização das Notas: ./kmeans/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: ./kmeans/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: ./kmeans/07.comparacao_grupos.md
+    - 08.Pré-processamento: ./kmeans/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: ./kmeans/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: ./kmeans/10.treinamento_modelo.md
+    - 11.Avaliação do Modelo: ./kmeans/11.avaliacao_modelo.md
+    - 12.Relatório Final: ./kmeans/12.relatorio_final.md
+  - Métricas e Avaliação:
+    - 01.Introdução: ./metrica_avaliacao/01.introducao.md
+    - 02.Métricas: ./metrica_avaliacao/02.metricas.md
+    - 03.Resultados: ./metrica_avaliacao/03.resultados.md
