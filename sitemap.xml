@@ -2,174 +2,194 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/01.introducao/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/02.importacao_bibliotecas/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/03.carregamento_dataset/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/04.analise_exploratoria/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/05.visualizacao_notas/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/06.correlacao_variaveis/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/07.comparacao_grupos/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/08.preprocessamento/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/09.divisao_treino_teste/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/10.treinamento_modelo/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/11.avaliacao_modelo/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/KNN/12.relatorio_final/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/01.introducao/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/02.importacao_bibliotecas/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/03.carregamento_dataset/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/04.analise_exploratoria/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/05.visualizacao_notas/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/06.correlacao_variaveis/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/07.comparacao_grupos/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/08.preprocessamento/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/09.divisao_treino_teste/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/10.treinamento_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/11.otimizacao_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/12.avaliacao_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/13.arvore_visual/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/arvore_decisao/14.relatorio_final/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/documentation/main/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/01.introducao/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/02.importacao_bibliotecas/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/03.carregamento_dataset/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/04.analise_exploratoria/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/05.visualizacao_notas/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/06.correlacao_variaveis/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/07.comparacao_grupos/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/08.preprocessamento/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/09.divisao_treino_teste/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/10.treinamento_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/11.avaliacao_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/kmeans/12.relatorio_final/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/01.introducao/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/02.importacao_bibliotecas/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/03.carregamento_dataset/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/04.analise_exploratoria/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/05.visualizacao_notas/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/06.correlacao_variaveis/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/07.comparacao_grupos/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/08.preprocessamento/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/09.divisao_treino_teste/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/10.treinamento_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/11.avaliacao_modelo/</loc>
-         <lastmod>2025-09-29</lastmod>
-    </url>
-    <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/knn/12.relatorio_final/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/01.introducao/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
          <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/02.metricas/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <lastmod>2025-09-30</lastmod>
     </url>
     <url>
-         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/03.resultados/</loc>
-         <lastmod>2025-09-29</lastmod>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/03.preprocessamento/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/04.analise_exploratoria/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/05.divisao_treino_teste/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/06.treinamento_modelo/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/07.resultados/</loc>
+         <lastmod>2025-09-30</lastmod>
+    </url>
+    <url>
+         <loc>https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/08.relatorio_final/</loc>
+         <lastmod>2025-09-30</lastmod>
     </url>
 </urlset>
