@@ -3,9 +3,6 @@ hide:
 - toc
 ---
 
-# Gustavo Dutra
-
-
 <div align="center">
 <style>
 @keyframes jumpBorder {
@@ -24,22 +21,18 @@ hide:
 }
 .profile-img {
 	border-radius: 50%;
-	box-shadow: 0 4px 16px #ffa50055;
+	box-shadow: 0 4px 16px hsla(0, 0%, 100%, 0.55);
 	animation: jumpBorder 1.2s infinite;
 }
 </style>
 <img src="https://avatars.githubusercontent.com/u/159259903?v=4" width="120" class="profile-img">
+	<br><b style="font-size:1.5rem; color:#ffa500; display:block; text-align:center; margin-top:16px;">Gustavo Dutra</b>
+	<b style="font-size:1.2rem; color:#ffa500; display:block; text-align:center; margin-top:16px;">Data Scientist | Machine Learning</b>
 	<br>
-	<b style="font-size:1.3rem; color:#ffa500; display:block; text-align:center; margin-top:16px;">Data Scientist | Machine Learning</b>
-	<br>
-	<span style="color:#00000055;">São Paulo, Brasil</span>
-	<br><br>
-			<img src="https://images.emojiterra.com/google/android-12l/512px/1f9ea.png" width="48" style="vertical-align:middle; margin-right:12px;">
 
-			<img src="https://em-content.zobj.net/source/whatsapp/224/game-die_1f3b2.png" width="48" style="vertical-align:middle;">
 </div>
-
 ---
+
 <!-- Mensagem de boas-vindas animada centralizada -->
 <div style="margin:32px 0 0 0; text-align:center;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+AO+MEU+PORTIFÓLIO!" 
@@ -62,42 +55,32 @@ hide:
 
 ---
 
+
 ## Machine Learning 🧠
 
 <ul style="list-style:none; padding:0;">
 	<li style="margin-bottom:1.2rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">🌳</span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/arvore_decisao" style="color:#1976d2;">Classificação de Performance de Estudantes</a></b><br>
-		<i>Árvore de decisão, análise exploratória, visualizações e insights sobre dados educacionais.</i>
-	</li>
-	<li style="margin-bottom:1.2rem;">
-		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">📈</span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/projeto" style="color:#1976d2;">Regressão Linear e Polinomial</a></b><br>
-		<i>Modelos de regressão para previsão e análise de tendências.</i>
+		<b><a href="https://snowdutra.github.io/Machine-Learning/arvore_decisao/01.introducao/" style="color:#1976d2;">Árvore de Decisão</a></b><br>
+		<i>Árvore de decisão aplicada a dados educacionais: análise exploratória, visualizações, insights e otimização de modelo.</i>
 	</li>
 	<li style="margin-bottom:1.2rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">🧩</span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro2" style="color:#1976d2;">Clustering e Segmentação</a></b><br>
-		<i>Agrupamento de dados, K-means, análise de grupos e perfis.</i>
+		<b><a href="https://snowdutra.github.io/Machine-Learning/kmeans/01.introducao/" style="color:#1976d2;">K-means</a></b><br>
+		<i>Agrupamento de estudantes com K-means, análise de clusters, visualizações e interpretação de grupos.</i>
 	</li>
 	<li style="margin-bottom:1.2rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">🤖</span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro3" style="color:#1976d2;">Redes Neurais e Deep Learning</a></b><br>
-		<i>Introdução a redes neurais, exemplos práticos e aplicações.</i>
+		<b><a href="https://snowdutra.github.io/Machine-Learning/knn/01.introducao/" style="color:#1976d2;">KNN</a></b><br>
+		<i>Classificação de estudantes utilizando o algoritmo K-Nearest Neighbors, análise de desempenho e matriz de confusão.</i>
 	</li>
 	<li style="margin-bottom:1.2rem;">
-		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">🛠️</span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/roteiro4" style="color:#1976d2;">Feature Engineering</a></b><br>
-		<i>Criação, seleção e transformação de variáveis para melhorar modelos.</i>
-	</li>
-	<li style="margin-bottom:1.2rem;">
-		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">📊 </span>
-		<b><a href="https://github.com/snowdutra/Machine-Learning/tree/main/docs/arvore_decisao/imagens" style="color:#1976d2;">Visualização de Dados</a></b><br>
-		<i>Gráficos, heatmaps, boxplots e outras técnicas para explorar dados.</i>
+		<span style="font-size:1.5rem; vertical-align:middle; animation: bounce 1.2s infinite;">📏</span>
+		<b><a href="https://snowdutra.github.io/Machine-Learning/metrica_avaliacao/01.introducao/" style="color:#1976d2;">Métricas de Avaliação</a></b><br>
+		<i>Comparação de métricas de avaliação de modelos de classificação e agrupamento, com exemplos práticos.</i>
 	</li>
 </ul>
 
-<!-- Animação CSS inline permitida pelo MkDocs Material -->
 <span style="
 @keyframes bounce {
 	0% { transform: translateY(0);}
@@ -110,7 +93,7 @@ hide:
 }
 "></span>
 
-Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/" target="_blank"><b>repositório principal</b></a>!
+Explore mais repositórios e projetos no <a href="https://github.com/snowdutra/" target="_blank"><b>meu GitHub</b></a>!
 
 ---
 
@@ -121,23 +104,23 @@ Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/" targ
 <ul style="list-style:none; padding:0;">
 	<li style="margin-bottom:1rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: pulse 1.2s infinite;">🐍</span>
-		<b style="font-size:1.1rem; color:#1976d2;">Python & Data Science</b>
+		<b style="font-size:0.9rem; color:#1976d2;">Python & Data Science</b>
 	</li>
 	<li style="margin-bottom:1rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: pulse 1.2s infinite;">🧠</span>
-		<b style="font-size:1.1rem; color:#1976d2;">Machine Learning & Estatística</b>
+		<b style="font-size:0.9rem; color:#1976d2;">Machine Learning & Estatística</b>
 	</li>
 	<li style="margin-bottom:1rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: pulse 1.2s infinite;">🤖</span>
-		<b style="font-size:1.1rem; color:#1976d2;">Deep Learning & Redes Neurais</b>
+		<b style="font-size:0.9rem; color:#1976d2;">Deep Learning & Redes Neurais</b>
 	</li>
 	<li style="margin-bottom:1rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: pulse 1.2s infinite;">📊</span>
-		<b style="font-size:1.1rem; color:#1976d2;">Visualização de Dados</b>
+		<b style="font-size:0.9rem; color:#1976d2;">Visualização de Dados</b>
 	</li>
 	<li style="margin-bottom:1rem;">
 		<span style="font-size:1.5rem; vertical-align:middle; animation: pulse 1.2s infinite;">🛠️</span>
-		<b style="font-size:1.1rem; color:#1976d2;">Ferramentas: Pandas, Scikit-learn, TensorFlow, PyTorch, SQL</b>
+		<b style="font-size:0.9rem; color:#1976d2;">Ferramentas: Pandas, Scikit-learn, Matplotlib, Seaborn</b>
 	</li>
 </ul>
 
@@ -152,6 +135,13 @@ Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/" targ
 
 ---
 
+## Mentores e Referências
+
+- [GitHub Hsandmann](https://github.com/hsandmann/ml)
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+- [Mermaid Live Editor](https://mermaid.live/)
+
+---
 
 ## Fique à vontade para conectar!
 
@@ -177,14 +167,6 @@ Explore mais projetos e exemplos no <a href="https://github.com/snowdutra/" targ
 	<img class="contact-icon" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" style="vertical-align:middle; cursor:pointer;" />
 </a>
 </a>
-
----
-
-## Mentores e Referências
-
-- [GitHub Hsandmann](https://github.com/hsandmann/ml)
-- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
-- [Mermaid Live Editor](https://mermaid.live/)
 
 ---
 
