@@ -184,3 +184,4 @@ nav:
     - 06.Treinamento do Modelo: ./metrica_avaliacao/06.treinamento_modelo.md
     - 07.Resultados: ./metrica_avaliacao/07.resultados.md
     - 08.Relatório Final: ./metrica_avaliacao/08.relatorio_final.md
+    - [Baixar notebook Jupyter](https://github.com/snowdutra/Machine-Learning/raw/main/docs/metrica_avaliacao/metrica_avaliacao.ipynb)
