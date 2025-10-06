@@ -148,7 +148,6 @@ nav:
     - 12.Avaliação do Modelo: ./arvore_decisao/12.avaliacao_modelo.md
     - 13.Árvore de Decisão Visual: ./arvore_decisao/13.arvore_visual.md
     - 14.Relatório Final: ./arvore_decisao/14.relatorio_final.md
-    - Jupyter Notebook: ./arvore_decisao/arvore_decisao.ipynb
   - KNN:
     - 01.Introdução: ./knn/01.introducao.md
     - 02.Importação de Bibliotecas: ./knn/02.importacao_bibliotecas.md
@@ -162,7 +161,6 @@ nav:
     - 10.Treinamento do Modelo: ./knn/10.treinamento_modelo.md
     - 11.Avaliação do Modelo: ./knn/11.avaliacao_modelo.md
     - 12.Relatório Final: ./knn/12.relatorio_final.md
-    - Jupyter Notebook: ./knn/knn.ipynb
   - K-Means:
     - 01.Introdução: ./kmeans/01.introducao.md
     - 02.Importação de Bibliotecas: ./kmeans/02.importacao_bibliotecas.md
@@ -176,7 +174,7 @@ nav:
     - 10.Treinamento do Modelo: ./kmeans/10.treinamento_modelo.md
     - 11.Avaliação do Modelo: ./kmeans/11.avaliacao_modelo.md
     - 12.Relatório Final: ./kmeans/12.relatorio_final.md
-    - Jupyter Notebook: ./kmeans/kmeans.ipynb
+ 
   - Métricas e Avaliação:
     - 01.Introdução: ./metrica_avaliacao/01.introducao.md
     - 02.Métricas: ./metrica_avaliacao/02.metricas.md
@@ -186,4 +184,4 @@ nav:
     - 06.Treinamento do Modelo: ./metrica_avaliacao/06.treinamento_modelo.md
     - 07.Resultados: ./metrica_avaliacao/07.resultados.md
     - 08.Relatório Final: ./metrica_avaliacao/08.relatorio_final.md
-    - Jupyter Notebook: ./metrica_avaliacao/metrica_avaliacao.ipynb
+    - Jupyter Notebook: ./metrica_avaliacao/metrica_avaliacao.md
