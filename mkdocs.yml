@@ -174,7 +174,6 @@ nav:
     - 10.Treinamento do Modelo: ./kmeans/10.treinamento_modelo.md
     - 11.Avaliação do Modelo: ./kmeans/11.avaliacao_modelo.md
     - 12.Relatório Final: ./kmeans/12.relatorio_final.md
- 
   - Métricas e Avaliação:
     - 01.Introdução: ./metrica_avaliacao/01.introducao.md
     - 02.Métricas: ./metrica_avaliacao/02.metricas.md
