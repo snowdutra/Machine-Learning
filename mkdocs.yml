@@ -134,33 +134,33 @@ nav:
   - Home: index.md
   - Documentation: ./documentation/main.md
   - Árvore de Decisão:
-    - 01.Introdução: ./arvore_decisao/01.introducao.md
-    - 02.Importação de Bibliotecas: ./arvore_decisao/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: ./arvore_decisao/03.carregamento_dataset.md
-    - 04.Análise Exploratória: ./arvore_decisao/04.analise_exploratoria.md
-    - 05.Visualização das Notas: ./arvore_decisao/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: ./arvore_decisao/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: ./arvore_decisao/07.comparacao_grupos.md
-    - 08.Pré-processamento: ./arvore_decisao/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: ./arvore_decisao/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: ./arvore_decisao/10.treinamento_modelo.md
-    - 11.Otimização do Modelo: ./arvore_decisao/11.otimizacao_modelo.md
-    - 12.Avaliação do Modelo: ./arvore_decisao/12.avaliacao_modelo.md
-    - 13.Árvore de Decisão Visual: ./arvore_decisao/13.arvore_visual.md
-    - 14.Relatório Final: ./arvore_decisao/14.relatorio_final.md
+    - 01.Introdução: arvore-decisao/01.introducao.md
+    - 02.Importação de Bibliotecas: arvore-decisao/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: arvore-decisao/03.carregamento_dataset.md
+    - 04.Análise Exploratória: arvore-decisao/04.analise_exploratoria.md
+    - 05.Visualização das Notas: arvore-decisao/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: arvore-decisao/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: arvore-decisao/07.comparacao_grupos.md
+    - 08.Pré-processamento: arvore-decisao/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: arvore-decisao/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: arvore-decisao/10.treinamento_modelo.md
+    - 11.Otimização do Modelo: arvore-decisao/11.otimizacao_modelo.md
+    - 12.Avaliação do Modelo: arvore-decisao/12.avaliacao_modelo.md
+    - 13.Árvore de Decisão Visual: arvore-decisao/13.arvore_visual.md
+    - 14.Relatório Final: arvore-decisao/14.relatorio_final.md
   - KNN:
-    - 01.Introdução: ./knn/01.introducao.md
-    - 02.Importação de Bibliotecas: ./knn/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: ./knn/03.carregamento_dataset.md
-    - 04.Análise Exploratória: ./knn/04.analise_exploratoria.md
-    - 05.Visualização das Notas: ./knn/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: ./knn/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: ./knn/07.comparacao_grupos.md
-    - 08.Pré-processamento: ./knn/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: ./knn/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: ./knn/10.treinamento_modelo.md
-    - 11.Avaliação do Modelo: ./knn/11.avaliacao_modelo.md
-    - 12.Relatório Final: ./knn/12.relatorio_final.md
+    - 01.Introdução: KNN/01.introducao.md
+    - 02.Importação de Bibliotecas: KNN/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: KNN/03.carregamento_dataset.md
+    - 04.Análise Exploratória: KNN/04.analise_exploratoria.md
+    - 05.Visualização das Notas: KNN/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: KNN/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: KNN/07.comparacao_grupos.md
+    - 08.Pré-processamento: KNN/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: KNN/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: KNN/10.treinamento_modelo.md
+    - 11.Avaliação do Modelo: KNN/11.avaliacao_modelo.md
+    - 12.Relatório Final: KNN/12.relatorio_final.md
   - K-Means:
     - 01.Introdução: ./kmeans/01.introducao.md
     - 02.Importação de Bibliotecas: ./kmeans/02.importacao_bibliotecas.md
@@ -175,26 +175,26 @@ nav:
     - 11.Avaliação do Modelo: ./kmeans/11.avaliacao_modelo.md
     - 12.Relatório Final: ./kmeans/12.relatorio_final.md
   - Métricas e Avaliação:
-    - 01.Introdução: ./metrica_avaliacao/01.introducao.md
-    - 02.Métricas: ./metrica_avaliacao/02.metricas.md
-    - 03.Preprocessamento: ./metrica_avaliacao/03.preprocessamento.md
-    - 04.Análise Exploratória: ./metrica_avaliacao/04.analise_exploratoria.md
-    - 05.Divisão Treino/Teste: ./metrica_avaliacao/05.divisao_treino_teste.md
-    - 06.Treinamento do Modelo: ./metrica_avaliacao/06.treinamento_modelo.md
-    - 07.Resultados: ./metrica_avaliacao/07.resultados.md
-    - 08.Relatório Final: ./metrica_avaliacao/08.relatorio_final.md
+    - 01.Introdução: metrica-avaliacao/01.introducao.md
+    - 02.Métricas: metrica-avaliacao/02.metricas.md
+    - 03.Preprocessamento: metrica-avaliacao/03.preprocessamento.md
+    - 04.Análise Exploratória: metrica-avaliacao/04.analise_exploratoria.md
+    - 05.Divisão Treino/Teste: metrica-avaliacao/05.divisao_treino_teste.md
+    - 06.Treinamento do Modelo: metrica-avaliacao/06.treinamento_modelo.md
+    - 07.Resultados: metrica-avaliacao/07.resultados.md
+    - 08.Relatório Final: metrica-avaliacao/08.relatorio_final.md
   - Random Forest:
-    - 01.Introdução: ./random_forest/01.introducao.md
-    - 02.Importação de Bibliotecas: ./random_forest/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: ./random_forest/03.carregamento_dataset.md
-    - 04.Análise Exploratória: ./random_forest/04.analise_exploratoria.md
-    - 05.Visualização das Notas: ./random_forest/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: ./random_forest/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: ./random_forest/07.comparacao_grupos.md
-    - 08.Pré-processamento: ./random_forest/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: ./random_forest/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: ./random_forest/10.treinamento_modelo.md
-    - 11.Otimização do Modelo: ./random_forest/11.otimizacao_modelo.md
-    - 12.Avaliação do Modelo: ./random_forest/12.avaliacao_modelo.md
-    - 13.Importância das Features: ./random_forest/13.importancia_features.md
-    - 14.Relatório Final: ./random_forest/14.relatorio_final.md
+    - 01.Introdução: random-forest/01.introducao.md
+    - 02.Importação de Bibliotecas: random-forest/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: random-forest/03.carregamento_dataset.md
+    - 04.Análise Exploratória: random-forest/04.analise_exploratoria.md
+    - 05.Visualização das Notas: random-forest/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: random-forest/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: random-forest/07.comparacao_grupos.md
+    - 08.Pré-processamento: random-forest/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: random-forest/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: random-forest/10.treinamento_modelo.md
+    - 11.Otimização do Modelo: random-forest/11.otimizacao_modelo.md
+    - 12.Avaliação do Modelo: random-forest/12.avaliacao_modelo.md
+    - 13.Importância das Features: random-forest/13.importancia_features.md
+    - 14.Relatório Final: random-forest/14.relatorio_final.md
