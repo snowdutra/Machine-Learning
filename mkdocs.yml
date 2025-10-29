@@ -183,3 +183,18 @@ nav:
     - 06.Treinamento do Modelo: ./metrica_avaliacao/06.treinamento_modelo.md
     - 07.Resultados: ./metrica_avaliacao/07.resultados.md
     - 08.Relatório Final: ./metrica_avaliacao/08.relatorio_final.md
+  - Random Forest:
+    - 01.Introdução: ./random_forest/01.introducao.md
+    - 02.Importação de Bibliotecas: ./random_forest/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: ./random_forest/03.carregamento_dataset.md
+    - 04.Análise Exploratória: ./random_forest/04.analise_exploratoria.md
+    - 05.Visualização das Notas: ./random_forest/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: ./random_forest/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: ./random_forest/07.comparacao_grupos.md
+    - 08.Pré-processamento: ./random_forest/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: ./random_forest/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: ./random_forest/10.treinamento_modelo.md
+    - 11.Otimização do Modelo: ./random_forest/11.otimizacao_modelo.md
+    - 12.Avaliação do Modelo: ./random_forest/12.avaliacao_modelo.md
+    - 13.Importância das Features: ./random_forest/13.importancia_features.md
+    - 14.Relatório Final: ./random_forest/14.relatorio_final.md
