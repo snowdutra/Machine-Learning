@@ -149,18 +149,18 @@ nav:
     - 13.Árvore de Decisão Visual: arvore-decisao/13.arvore_visual.md
     - 14.Relatório Final: arvore-decisao/14.relatorio_final.md
   - KNN:
-    - 01.Introdução: KNN/01.introducao.md
-    - 02.Importação de Bibliotecas: KNN/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: KNN/03.carregamento_dataset.md
-    - 04.Análise Exploratória: KNN/04.analise_exploratoria.md
-    - 05.Visualização das Notas: KNN/05.visualizacao_notas.md
-    - 06.Correlação entre Variáveis: KNN/06.correlacao_variaveis.md
-    - 07.Comparação por Gênero e Grupo Étnico: KNN/07.comparacao_grupos.md
-    - 08.Pré-processamento: KNN/08.preprocessamento.md
-    - 09.Divisão Treino/Teste: KNN/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: KNN/10.treinamento_modelo.md
-    - 11.Avaliação do Modelo: KNN/11.avaliacao_modelo.md
-    - 12.Relatório Final: KNN/12.relatorio_final.md
+    - 01.Introdução: knn/01.introducao.md
+    - 02.Importação de Bibliotecas: knn/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: knn/03.carregamento_dataset.md
+    - 04.Análise Exploratória: knn/04.analise_exploratoria.md
+    - 05.Visualização das Notas: knn/05.visualizacao_notas.md
+    - 06.Correlação entre Variáveis: knn/06.correlacao_variaveis.md
+    - 07.Comparação por Gênero e Grupo Étnico: knn/07.comparacao_grupos.md
+    - 08.Pré-processamento: knn/08.preprocessamento.md
+    - 09.Divisão Treino/Teste: knn/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: knn/10.treinamento_modelo.md
+    - 11.Avaliação do Modelo: knn/11.avaliacao_modelo.md
+    - 12.Relatório Final: knn/12.relatorio_final.md
   - K-Means:
     - 01.Introdução: ./kmeans/01.introducao.md
     - 02.Importação de Bibliotecas: ./kmeans/02.importacao_bibliotecas.md
