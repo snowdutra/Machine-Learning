@@ -197,5 +197,8 @@ nav:
     - 11.Avaliação do Modelo: random-forest/11.avaliacao_modelo.md
     - 12.Relatório Final: random-forest/12.relatorio_final.md
   - Suporte Vector Machine:
+    - 01.Introdução: support-vector-machine/01.introducao.md
   - Page Rank:
+    - 01.Introdução: page-rank/01.introducao.md
   - PySpark:
+    - 01.Introdução: pyspark/01.introducao.md
