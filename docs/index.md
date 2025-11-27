@@ -137,7 +137,7 @@ Explore mais repositórios e projetos no <a href="https://github.com/snowdutra/"
 
 ## Mentores e Referências
 
-- [GitHub Hsandmann](https://github.com/hsandmann/ml)
+- [GitHub Hsandmann](https://hsandmann.github.io/ml/)
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 - [Mermaid Live Editor](https://mermaid.live/)
 
