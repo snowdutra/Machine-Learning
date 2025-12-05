@@ -15,13 +15,13 @@ hide:
 
 ---
 
-### Interface do Spark Master
+### Interface do Spark Worker
 
 ![Interface do Worker](imagens/worker.png)
 
 ---
 
-### Interface do Spark Master
+### Interface do Jupyter Notebook
 
 ![Jupyter Notebook](imagens/jupyter.png)
 
