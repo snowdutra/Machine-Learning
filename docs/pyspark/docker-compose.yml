@@ -5,7 +5,6 @@ services:
     command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master --host spark-master
     ports:
       - "8080:8080" # Spark Master UI
-      - "7077:7077" # Spark Master Port
   spark-worker:
     image: apache/spark:latest
     container_name: spark-worker

@@ -198,7 +198,24 @@ nav:
     - 12.Relatório Final: random-forest/12.relatorio_final.md
   - Suporte Vector Machine:
     - 01.Introdução: support-vector-machine/01.introducao.md
+    - 02.Importação de Bibliotecas: support-vector-machine/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: support-vector-machine/03.carregamento_dataset.md
+    - 04.Pré-processamento: support-vector-machine/04.preprocessamento.md
+    - 05.Análise Exploratória: support-vector-machine/05.analise_exploratoria.md
+    - 06.Visualização das Notas: support-vector-machine/06.visualizacao_notas
+    - 07.Correlação entre Variáveis: support-vector-machine/07.correlacao_variaveis.md
+    - 08.Comparação por Gênero e Grupo Étnico: support-vector-machine/08.comparacao_grupos.md
+    - 09.Treinamento do Modelo: support-vector-machine/09.treinamento_modelo.md
+    - 10.Avaliação do Modelo: support-vector-machine/10.avaliacao_modelo.md
+    - 11.Relatório Final: support-vector-machine/11.relatorio_final.md
   - Page Rank:
     - 01.Introdução: page-rank/01.introducao.md
+    - 02.Importação de Bibliotecas: page-rank/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: page-rank/03.carregamento_dataset.md
+    - 04. Modelagem do Grafo: page-rank/04.modelagem_grafo.md
+    - 05. Implementação do Page Rank: page-rank/05.implementacao_pagerank.md
+    - 06. Resultados e Análise: page-rank/06.resultados_analise.md
+    - 07. Page Rank Karate: page-rank/07.pagerank_karate.md
+    - 08. Relatório Final: page-rank/08.relatorio_final.md
   - PySpark:
-    - 01.Introdução: pyspark/01.introducao.md
+    - Relatório: pyspark/relatorio_pyspark.md
