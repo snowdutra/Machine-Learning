@@ -148,19 +148,6 @@ nav:
     - 12.Avaliação do Modelo: arvore-decisao/12.avaliacao_modelo.md
     - 13.Árvore de Decisão Visual: arvore-decisao/13.arvore_visual.md
     - 14.Relatório Final: arvore-decisao/14.relatorio_final.md
-  - KNN:
-    - 01.Introdução: knn/01.introducao.md
-    - 02.Importação de Bibliotecas: knn/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: knn/03.carregamento_dataset.md
-    - 04.Pré-processamento: knn/04.preprocessamento.md
-    - 05.Análise Exploratória: knn/05.analise_exploratoria.md
-    - 06.Visualização das Notas: knn/06.visualizacao_notas.md
-    - 07.Correlação entre Variáveis: knn/07.correlacao_variaveis.md
-    - 08.Comparação por Gênero e Grupo Étnico: knn/08.comparacao_grupos.md
-    - 09.Divisão Treino/Teste: knn/09.divisao_treino_teste.md
-    - 10.Treinamento do Modelo: knn/10.treinamento_modelo.md
-    - 11.Avaliação do Modelo: knn/11.avaliacao_modelo.md
-    - 12.Relatório Final: knn/12.relatorio_final.md
   - K-Means:
     - 01.Introdução: ./kmeans/01.introducao.md
     - 02.Importação de Bibliotecas: ./kmeans/02.importacao_bibliotecas.md
@@ -174,6 +161,19 @@ nav:
     - 10.Treinamento do Modelo: ./kmeans/10.treinamento_modelo.md
     - 11.Avaliação do Modelo: ./kmeans/11.avaliacao_modelo.md
     - 12.Relatório Final: ./kmeans/12.relatorio_final.md
+  - KNN:
+    - 01.Introdução: knn/01.introducao.md
+    - 02.Importação de Bibliotecas: knn/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: knn/03.carregamento_dataset.md
+    - 04.Pré-processamento: knn/04.preprocessamento.md
+    - 05.Análise Exploratória: knn/05.analise_exploratoria.md
+    - 06.Visualização das Notas: knn/06.visualizacao_notas.md
+    - 07.Correlação entre Variáveis: knn/07.correlacao_variaveis.md
+    - 08.Comparação por Gênero e Grupo Étnico: knn/08.comparacao_grupos.md
+    - 09.Divisão Treino/Teste: knn/09.divisao_treino_teste.md
+    - 10.Treinamento do Modelo: knn/10.treinamento_modelo.md
+    - 11.Avaliação do Modelo: knn/11.avaliacao_modelo.md
+    - 12.Relatório Final: knn/12.relatorio_final.md
   - Métricas de Avaliação:
     - 01.Introdução: metrica-avaliacao/01.introducao.md
     - 02.Métricas: metrica-avaliacao/02.metricas.md
@@ -183,6 +183,17 @@ nav:
     - 06.Treinamento do Modelo: metrica-avaliacao/06.treinamento_modelo.md
     - 07.Resultados: metrica-avaliacao/07.resultados.md
     - 08.Relatório Final: metrica-avaliacao/08.relatorio_final.md
+  - Page Rank:
+    - 01.Introdução: page-rank/01.introducao.md
+    - 02.Importação de Bibliotecas: page-rank/02.importacao_bibliotecas.md
+    - 03.Carregamento do Dataset: page-rank/03.carregamento_dataset.md
+    - 04. Modelagem do Grafo: page-rank/04.modelagem_grafo.md
+    - 05. Implementação do Page Rank: page-rank/05.implementacao_pagerank.md
+    - 06. Resultados e Análise: page-rank/06.resultados_analise.md
+    - 07. Page Rank Karate: page-rank/07.pagerank_karate.md
+    - 08. Relatório Final: page-rank/08.relatorio_final.md
+  - PySpark:
+    - Relatório: pyspark/relatorio_pyspark.md
   - Random Forest:
     - 01.Introdução: random-forest/01.introducao.md
     - 02.Importação de Bibliotecas: random-forest/02.importacao_bibliotecas.md
@@ -208,14 +219,3 @@ nav:
     - 09.Treinamento do Modelo: support-vector-machine/09.treinamento_modelo.md
     - 10.Avaliação do Modelo: support-vector-machine/10.avaliacao_modelo.md
     - 11.Relatório Final: support-vector-machine/11.relatorio_final.md
-  - Page Rank:
-    - 01.Introdução: page-rank/01.introducao.md
-    - 02.Importação de Bibliotecas: page-rank/02.importacao_bibliotecas.md
-    - 03.Carregamento do Dataset: page-rank/03.carregamento_dataset.md
-    - 04. Modelagem do Grafo: page-rank/04.modelagem_grafo.md
-    - 05. Implementação do Page Rank: page-rank/05.implementacao_pagerank.md
-    - 06. Resultados e Análise: page-rank/06.resultados_analise.md
-    - 07. Page Rank Karate: page-rank/07.pagerank_karate.md
-    - 08. Relatório Final: page-rank/08.relatorio_final.md
-  - PySpark:
-    - Relatório: pyspark/relatorio_pyspark.md
